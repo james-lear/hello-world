@@ -2,4 +2,14 @@ askdaksdkasd
 
 asd
 
+<<<<<<< HEAD
 HGotfix
+=======
+
+asd
+asd
+asd
+as
+d
+asd
+>>>>>>> iss53
